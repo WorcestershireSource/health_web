@@ -1,0 +1,322 @@
+
+{
+    "sections": [
+        {
+            "id": "1",
+            "title" : "Food basics",
+            "importance": ["Essential", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Mostly clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Food and drink"],
+            "emoji": "&#127822;",
+            "summary": "Advice on your diet can be confusing. We should ignore fad diets; the evidence is clear that we can eat a very healthy diet by following a few simple principles.",
+            "recommendations": [
+                "Eat lots of fruits and vegetables. At least five portions a day is a helpful guideline.",
+                "Eat wholegrains (e.g. brown rice, wholewheat bread and pasta, leave skins on potatoes).", 
+                "Try to eat a wide variety of foods.",
+                "Mainly eat plants. Diets which have less meat have been shown to be better for your health. Vegetarian or pescatarian diets have lower risks of serious illness.",
+                "Reduce the amount of processed foods and sugar in your diet as far as possible. "
+            ],
+            "tips": [
+                "Frozen, dried or tinned fruit and vegetables will keep for longer and can help you to eat more variety.",
+                "Learning to cook a few simple meals can help you to improve your diet as you`re less likely to use processed products. Try a lentil pasta, a stew or a vegetable curry.",
+                "Try cooking with a friend or family member.",
+                "Put less-healthy foods in harder to reach places and healthier options in more prominent, visible places in your kitchen.",
+                "Check nutritional labels on foods for sugar levels. Some healthy-looking breakfast cereals, for example, are 20-30% sugar",
+                "Taking a vitamin supplement is fine, but should not be a substitute for a varied, balanced diet."
+            ],
+            "sources": [
+                "Many types of diet can be successful, but healthy diets share common features: `a diet of minimally processed foods close to nature, predominantly plants, is decisively associated with health promotion and disease prevention.`<a href=`https://www.annualreviews.org/doi/full/10.1146/annurev-publhealth-032013-182351`> Katz and Meller. Can we say what diet is best for health? Annual Review of Public Health. 2014.</a>",
+                "Study of 118,000 people indicating `that higher whole grain consumption is associated with lower total and [caridovascular disease] mortality in U.S. men and women, independent of other lifestyle factors.` <a href=`https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429593/`> Wu et al. Whole Grain Intake and Mortality. JAMA Internal Medicine. 2015."
+            ]
+        }, 
+        {
+            "id": "2",
+            "title" : "Water",
+            "importance": ["Can`t hurt", "<i class=`bi bi-dash-square-fill text-warning`></i>"],
+            "evidence": ["Clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Food and drink"],
+            "emoji": "&#128688;",
+            "summary": "Staying hydrated is important, but most people get enough water without planning it. Choosing healthy drinks can help to maintain a healthy weight.",
+            "recommendations": [
+                "Drink when you feel thirsty. Common advice is to aim for two litres or eights cups a day, but this can vary between individuals and some health authorities are moving away from specific targets.",
+                "It is possible (although uncommon) to overhydrate, so do not force yourself to drink more than is comfortable.",
+                "Soft drinks and some juices are high in sugar and are best avoided.",
+                "Getting enough liquid is more important when exercising or sweating or after vomiting or diarrhhoea. Sports drinks or coconut milk can replace electrolytes.",
+                "See more detail in our caffeine and juice advice."
+            ],
+            "tips": [
+                "Carry a water bottle.",
+                "Find low-sugar drinks that you enjoy: tea, coffee, sparkling water or water with a slice of lemon or lime.",
+                "Have a drink with snacks and meals.",
+                "Lots of our fluids come from our food. Eating a healthy diet will help to keep your body hydrated."
+            ],
+            "sources": [
+                "Most people meet their daily hydration needs by letting thirst be their guide. <a href=`www.sciencedaily.com/releases/2004/02/040212092439.htm`>The National Academies / Institute Of Medicine. `Let Thirst Be Your Guide` ScienceDaily, 12 February 2004</a",
+                "Meta-analysis shows that total water intake is not associated with risk of all-cause mortality. <a href=`https://pubmed.ncbi.nlm.nih.gov/34525269/`>Majid M et al. Total drinking water intake and risk of all-cause and cardiovascular mortality. Int J Clin Pract. 2021. </a"
+            ]
+    
+        },
+        {
+            "id": "3",
+            "title" : "Exercise",
+            "importance": ["Essential", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Mostly clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Body", "Appearance"],
+            "emoji": "&#129336;",
+            "summary": "Getting exercise at any age reduces the risk of major illness and early death. It can also help your mood, sleep quality and energy.",
+            "recommendations": [
+                "Exercise is not just time spent in the gym. Mild or moderate activity such as walking, standing or gardening plays an important role for people of all ages.",
+                "Adults should aim to do at least 150 minutes of activity each week.",
+                "You should aim for a range of mild, moderate and vigorous activities e.g. walking and running.",
+                "Sitting or lying down for extended periods is bad for your health. Try to reduce the time you spend sat down and get up regularly.",
+                "Stretching before and after vigorous exercise can reduce the risk of injury."
+            ],
+            "tips": [
+                "Try a range of group and solo sports or activities to find something you enjoy. It will be easier to keep it up.",
+                "A positive mindset can help you to enjoy exercise more. Try to exercise with an instructor or friend who motivates you. Try to keep your inner monologue positive.",
+                "Walk or cycle instead of using a car or public transport",
+                "Some people find fitness trackers helpful to monitor their progress and set goals like walking 10k steps a day.",
+                "Set a reminder to get up regularly if you are sat down for a long period and stretch or go for a short walk"
+            ],
+            "sources": [
+                "Study showing that `a generally active daily life was, regardless of exercising regularly or not, associated with cardiovascular health and longevity in older adults.` <a href=`https://bjsm.bmj.com/content/48/3/233?wvsessionid=wv5a48bcd3dde64a0694b0d38557a6cbb0`> Ekblom-Bak E, Ekblom B, Vikström M, et al. The importance of non-exercise physical activity for cardiovascular health and longevity. British Journal of Sports Medicine 2014;48:233-238.</a>",
+                "`Resistance training is associated with lower mortality and appears to have an additive effect when combined with aerobic exercise.` <a href=`https://academic.oup.com/eurjpc/article/26/15/1647/5925845?login=false`> Saeidifard F, Medina-Inojosa JR et al. The association of resistance training with mortality: A systematic review and meta-analysis, European Journal of Preventive Cardiology, Volume 26, Issue 15, 1 October 2019, Pages 1647–1665,</a>"
+            ]
+        },
+        {
+            "id": "4",
+            "title" : "Sleep",
+            "importance": ["Essential", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Mixed", "<i class=`bi bi-dash-square-fill text-warning`></i>"],
+            "categories": ["Mind"],
+            "emoji": "&#128716;",
+            "summary": "We spend about a third of our lives asleep. We know that sleep quality has a wide range of impacts on our health, but the underlying mechanisms are still poorly understood.",
+            "recommendations": [
+                "The amount of time you need to sleep varies between people and by age. It can be between 6 and 11 hours a night. Adjust your sleep in response to feedback from your body.",
+                "Try to go to bed and get up at consistent times each day.",
+                "Aim to get bright daylight early in the day",
+                "Reduce your exposure to screens or artificial light before sleep. The blue light tricks the body into thinking it is day-time",
+                "Avoid caffeine late in the day and before sleep. See our caffeine section",
+                "Stress can negatively affect the quality of sleep. Try to relax before bed. See our section on anxiety."
+            ],
+            "tips": [
+                "Some phones have options to reduce the amount of blue-light in the evening.",
+                "Try reading, meditating or listening to an audio-book before sleeping.",
+                "Some fitness trackers allow you to monitor the quality of your sleep."
+            ],
+            "sources": [
+                "<a href=`https://www.hsph.harvard.edu/nutritionsource/sleep/`> Harvard TH Chan School of Public Health. The Nutrition Source: Sleep. Accessed Oct 2022.</a>",
+                "`Even modest night-to-nigth reductions in sleep across the population predict consequential day-to-day increases in anxiety` <a href=`https://www.nature.com/articles/s41562-019-0754-8`>Simon EB, Rossi A, Harvey AG, Walker MP. Overanxious and underslept. Nature Human Behavior. (2019) Nov; 4(1):100-110. Erratum (2020) in Nature Human Behavior, 4(12):1321.</a>",
+                "Meta-analysis showing that short sleepers (>7hrs/night) and long sleepers (>9hrs/night) are `at higher risk for a number of adverse health conditions` although the underlying mechanisms are not understood. <a href=`https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2008.00732.x`> GALLICCHIO, L. and KALESAN, B. (2009), Sleep duration and mortality: a systematic review and meta-analysis. Journal of Sleep Research, 18: 148-158. </a>"
+            ]
+        },
+        {
+            "id": "5",
+            "title" : "Vaccines",
+            "importance": ["Essential", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Body"],
+            "emoji": "&#128300;",
+            "summary": "Since vaccines were introduced, diseases like smallpox, polio and tetanus that used to kill or disable millions of people are either gone or seen very rarely. Criticisms are rarely based on reliable medical advice.",
+            "recommendations": [
+                "Make sure you and your children are vaccinated. Your local health authority will have recommendations for vaccinations in your region.",
+                "You should review advice for vaccinations before international travel."
+            ],
+            "tips": [
+                "You should speak to a healthcare provider if you have any concerns.",
+                "If you are nervous about needles, you may find it helpful to bring a friend or family member for support."
+            ],
+            "sources": [
+                "`Vaccines are the most effective way to prevent infectious diseases.` <a href=`https://www.nhs.uk/conditions/vaccinations/why-vaccination-is-safe-and-important/`>UK National Health Service. Why vaccination is safe and important. Accessed 2022.</a>"
+            ]
+        },
+        {
+            "id": "6",
+            "title" : "Teeth",
+            "importance": ["Try to do it", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Body", "Appearance"],
+            "emoji": "&#128513;",
+            "summary": "We only get one set of adult teeth, so we need to look after them. Dental problems can be painful (and expensive). Looking after our teeth is easy with a simple daily routine.",
+            "recommendations": [
+                "Brush your teeth twice a day for two minutes each time. Make sure you cover your whole mouth.",
+                "Use mouthwash and dental floss regularly.",
+                "Reduce the sugar in your diet and avoid soft drinks.",
+                "Reduce the amount of snacks you eat outside of meal times. This can help to reduce the impact of sugar on your teeth."
+            ],
+            "tips": [
+                "An electric toothbrush can help to make brushing your teeth easier. Some models have timers to help you.",
+                "Some drinks can stain your teeth. Using a drinking straw can help to reduce the impact."
+            ],
+            "sources": [
+                "Evidence that powered toothbrushes are more effective than manual in plaque removal and gingivitis reduction. <a href=`https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002281.pub3/full`>Yaacob M, Worthington HV, Deacon SA, Deery C, Walmsley AD, Robinson PG, Glenny AM. Powered versus manual toothbrushing for oral health. Cochrane Database of Systematic Reviews 2014, Issue 6. Art. No.: CD002281. DOI: 10.1002/14651858.CD002281.pub3. Accessed 20 October 2022.</a>",
+                "Evidence that chlorhexidine mouthrinse reduces plaque when used alongside brushing. <a href=`https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008676.pub2/full`>James P, Worthington HV, Parnell C, Harding M, Lamont T, Cheung A, Whelton H, Riley P. Chlorhexidine mouthrinse as an adjunctive treatment for gingival health. Cochrane Database of Systematic Reviews 2017, Issue 3. Art. No.: CD008676. DOI: 10.1002/14651858.CD008676.pub2. Accessed 20 October 2022.</a>",
+                "There isn`t enough reliable evidence to assess flossing with confidence, but it may be beneficial. <a href=`https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008829.pub2/full#CD008829-sec1-0001`> Sambunjak D, Nickerson JW, Poklepovic T, Johnson TM, Imai P, Tugwell P, Worthington HV. Flossing for the management of periodontal diseases and dental caries in adults. Cochrane Database of Systematic Reviews 2011, Issue 12. Art. No.: CD008829. DOI: 10.1002/14651858.CD008829.pub2. Accessed 20 October 2022.</a>",
+                "A study of 1877 UK adults with early gum disease found no evidence of differences in gum health as a result of dentist `scale and polish` treatments. <a href=`https://www.journalslibrary.nihr.ac.uk/hta/hta22380/#/plain-english-summary`>Ramsay CR, Clarkson JE, Duncan A, Lamont TJ, Heasman PA, Boyers D, et al. Improving the Quality of Dentistry (IQuaD): A cluster factorial randomised controlled trial comparing the effectiveness and cost-benefit of oral hygiene advice and/or periodontal instrumentation with routine care for the prevention and management of periodontal disease in dentate adults attending dental primary care. Health Technol Assess 2018;22(38)</a>"
+            ]
+        },
+        {
+            "id": "7",
+            "title" : "Alcohol",
+            "importance": ["Bad for you", "<i class=`bi bi-x-square-fill text-danger`></i>"],
+            "evidence": ["Mixed", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Food and drink"],
+            "emoji": "&#129347;",
+            "summary": "The evidence is clear that drinking large amounts is bad for your health. The evidence on moderate drinking is less clear, but it is likely that the risk to your health is increased by drinking any amount of alcohol on a regular basis. Your risk of serious illness is increased significantly by drinking over the long term.",
+            "recommendations": [
+                "Reduce your alcohol intake as much as possible. Aim to limit your intake of alcohol to less than 15 units a week.",
+                "Avoid drinking large amounts in a short period of time entirely."
+            ],
+            "tips": [
+                "Learn how much alcohol is in the drinks you commonly order.",
+                "Try ordering smaller drink sizes where available.",
+                "Alternate alcoholic drinks with non-alcoholic drinks.",
+                "Consider telling friends and family that you are cutting down on alcohol.",
+                "If you have a problem with alcohol misuse, consider seeking help from a support group or a healthcare professional."
+            ],
+            "sources": [
+                "`Although past studies have indicated that moderate alcohol consumption has protective health benefits (e.g., reducing risk of heart disease), recent studies show this may not be true` Links to supporting studies contained within the link. <a href=`https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm`>US Centers for Disease Control and Prevention. Dietary Guidelines for Alcohol. Accessed October 2022. </a>"
+            ]
+        },
+        {
+            "id": "8",
+            "title" : "Caffeine",
+            "importance": ["Probably fine", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Mixed", "<i class=`bi bi-question-square-fill text-warning`></i>"],
+            "categories": ["Food and drink"],
+            "emoji": "&#9749;",
+            "summary": "Caffeine is found in several sources including: tea, green tea, coffee, energy drinks, cola and chocolate. Its impact varies between people. While all the impacts are not yet fully understood, it is well studied and is generally accepted to be safe in moderation. It may have some health benefits, but it may also disturb sleep.",
+            "recommendations": [
+                "Consume caffeine in moderation. High doses may cause anxiety, restlessness or insomnia. Caffeine is addictive and you may experience withdrawal symptoms.",
+                "Caffeine can help you to feel alert but it can disrupt your sleep if consumed too late in the day. You should not consume it before sleep. Levels of caffeine in your blood peak one hour after consuming it and stays at that level for several hours for most people. Six hours after it is consumed, half of it is still in your body. It can take up to ten hours to completely clear."
+            ],
+            "tips": [
+                "Make sure you understand the caffeine levels in your favourite drinks.",
+                "Look out for high sugar levels in coffee based drinks with cream or syrup."
+            ],
+            "sources": [
+                "A range of studies are contained within this link: <a href=`https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/`>Harvard TH Chan School of Public Health. The Nutrition Source: Coffee. Accessed 2022. </a>"
+            ]
+        },
+        {  
+            "id": "9",
+            "title" : "Skincare",
+            "importance": ["Try to do it", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Clear", "<i class=`bi bi-plus-square-fill text-success`></i>"],
+            "categories": ["Body", "Appearance"],
+            "emoji": "&#127774;",
+            "summary": "Looking after our skin can keep it looking young and healty and reduce the risk of skin cancer. While there are a wide range of (often expensive) products available, you can look after your skin with a limited number of affordable products.",
+            "recommendations": [
+                "Clean your face twice a day and apply a moisturiser after. Water is sufficient to wash your face, but if you have oily or dirty skin, or wear make-up, you could use a cleanser.",
+                "Reduce your exposure to UV and use sunscreen. Over your lifetime, skin accumulates sun damage which can damage your skin and increase your risk of cancer.",
+                "There is little reliable evidence to support the use of collagen supplements."
+            ],
+            "tips": [
+                "Some moisturisers also contain sunscreen and can help to reduce the number of separate products you need.",
+                "There is some evidence that products including retinols (vitamin A) can help to improve skin"
+            ],
+            "sources": [
+                "`sunscreen use at a population level will prevent substantial numbers of new skin tumours, melanoma deaths and save healthcare costs.` <a href=`https://pubmed.ncbi.nlm.nih.gov/32107270/#:~:text=Conclusions%3A%20Compared%20with%20early%20detection,in%20the%20control%20of%20melanoma.`>Gordon L, Olsen C et al. Prevention versus early detection for long-term control of melanoma and keratinocyte carcinomas. BMJ Open. 2020 Feb 26</a>",
+                "`most if not all of the research on collagen supplements are funded or partially funded by related industries ... or one or more of the study authors have ties to those industries.` <a href=`https://www.hsph.harvard.edu/nutritionsource/collagen/`>Harvard TH Chan School of Public Health. The Nutrition Source: Collagen. Accessed Oct 2022.</a> "
+            ]
+        },
+        {
+            "id": "10",
+            "title" : "Fasting",
+            "importance": ["Waste of time", "<i class=`bi bi-dash-square-fill text-warning`></i>"],
+            "evidence": ["Mixed", "<i class=`bi bi-question-square-fill text-warning`></i>"],
+            "categories": ["Food and drink"],
+            "emoji": "&#129296;",
+            "summary": "The evidence is unclear about the benefits of intermitent fasting. There is insufficient and mixed evidence on whether fasting is more effective than daily calorie restriction for losing weight.",
+            "recommendations": [
+                "Take care and stop if you feel unwell."
+            ],
+            "tips": [
+                "a",
+                "b"
+            ],
+            "sources": [
+                "`research does not consistently show that intermittent fasting is superior to continuous low calorie diets for weight loss efficiency.` <a href=`https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/intermittent-fasting/`>Harvard TH Chan School of Public Health. The Nutrition Source: Intermittent fasting. Accessed Oct 2022. </a>"
+            ]
+        }, 
+        {
+            "id": "11",
+            "title" : "Meditation",
+            "importance": ["Try to do it", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "evidence": ["Miced", "<i class=`bi bi-question-square-fill text-warning`></i>"],
+            "categories": ["Mind"],
+            "emoji": "&#127774;",
+            "summary": "There is some evidence that meditation has benefits, but some research is poor quality and many claims have been made beyond what has been demonstrated",
+            "recommendations": [
+                "Try a variety of types of meditation or mindfulness to see what works for you."
+            ],
+            "tips": [
+                "Guided meditation, in person or with a recording, can be help to get started.",
+                "Combine meditation with other ways of managing stress, such as talking to friends and family."
+            ],
+            "sources": [
+                "`much of the research on these topics has been preliminary or not scientifically rigorous. Because the studies examined many different types of meditation and mindfulness practices, and the effects of those practices are hard to measure, results from the studies have been difficult to analyze and may have been interpreted too optimistically.` Additional references within the link: <a href=`https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know#:~:text=The%20results%20of%20the%20study,and%20overall%20quality%20of%20life.`>National Center for Complementary and Integrative Health. Meditation and mindfulness: what you need to know. Accessed Oct 2022. </a>"
+            ]
+        }, 
+        {
+            "id": "12",
+            "title" : "Smoking",
+            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "evidence": ["Clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "categories": ["Body"],
+            "emoji": "&#128684;",
+            "summary": "The evidence is clear, smoking is a leading cause of death and illness and contributes to a wide range of health problems.",
+            "recommendations": [
+                "If you don`t smoke, avoid trying it. Nicotine is addictive.",
+                "If you smoke, seek help to cut down and quit."
+            ],
+            "tips": [
+                "Support services greatly increase your chances of quitting successfully. Find out what support services are available to you.",
+                "E-cigarettes and nicotine aids can help to mange the transition."
+            ],
+            "sources": [
+                "<a href=`https://www.nhs.uk/common-health-questions/lifestyle/what-are-the-health-risks-of-smoking/#:~:text=Smoking%20increases%20your%20risk%20of,around%20you%20smoke%20(passive%20smoking)`>UK National Health Service. What are the health risks of smoking? Accessed Oct 2022.</a>"
+            ]
+        }, 
+        {
+            "id": "13",
+            "title" : "Vaping",
+            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "evidence": ["Mostly clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "categories": ["Body"],
+            "emoji": "&#9729;",
+            "summary": "The long-term risks of vaping are still unclear. Many contain nicotine which is addictive and, while there are fewer harmful chemicals than in cigarettes, many of the chemicals in vaping liquid have not been tested robustly.",
+            "recommendations": [
+                "Avoid vaping unless it is as part of a structured plan to quit smoking."
+            ],
+            "tips": [
+                "If you vape, make sure you understand how much nicotine is in your e-liquid.",
+                "Some support services to stop smoking may be able to support you to stop vaping.",
+                "Check if e-cigarettes are regulated in your country."
+            ],
+            "sources": [
+                "Vaping aerosols contain unknown chemicals and substances not disclosed by manufacturers. <a href=`https://pubs.acs.org/doi/10.1021/acs.chemrestox.1c00253`>Tehrani M, Newmeyer M, Rule A and Prasse C. Characterizing the Chemical Landscape in Commercial E-Cigarette Liquids and Aerosols by Liquid Chromatography–High-Resolution Mass Spectrometry. Chemical Research in Toxicology. Oct 2021. </a> "
+            ]
+        }, 
+        {
+            "id": "16",
+            "title" : "Cold showers",
+            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "evidence": ["Mostly clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
+            "categories": ["Mind"],
+            "emoji": "&#128703;",
+            "summary": "c",
+            "recommendations": [
+                "a",
+                "b"
+            ],
+            "tips": [
+                "a",
+                "b"
+            ],
+            "sources": [
+                ""
+            ]
+        }
+    ]
+}
