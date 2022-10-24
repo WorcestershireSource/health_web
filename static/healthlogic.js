@@ -86,7 +86,7 @@ function populate_page(healthJson) {
                         <h5 id="mainBox${healthJson["sections"][i]["id"]}"><strong> ${healthJson["sections"][i]["title"]} </strong></h5> 
                     </div>
                     <div class="col d-flex justify-content-end mb-2">
-                        <h5>Benefits: ${healthJson["sections"][i]["importance"][1]}</h5> 
+                        <h5>Impact: ${healthJson["sections"][i]["importance"][1]}</h5> 
                         <h5 class="mx-3">Evidence: ${healthJson["sections"][i]["evidence"][1]}</h5>
                     </div>
                 </div>

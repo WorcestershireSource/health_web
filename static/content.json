@@ -243,7 +243,7 @@
             "id": "11",
             "title" : "Meditation",
             "importance": ["Try to do it", "<i class=`bi bi-check-square-fill text-success`></i>"],
-            "evidence": ["Miced", "<i class=`bi bi-question-square-fill text-warning`></i>"],
+            "evidence": ["Mixed", "<i class=`bi bi-question-square-fill text-warning`></i>"],
             "categories": ["Mind"],
             "emoji": "&#127774;",
             "summary": "There is some evidence that meditation has benefits, but some research is poor quality and many claims have been made beyond what has been demonstrated",
@@ -261,7 +261,7 @@
         {
             "id": "12",
             "title" : "Smoking",
-            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "importance": ["Bad for you", "<i class=`bi bi-x-square-fill text-danger`></i>"],
             "evidence": ["Clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
             "categories": ["Body"],
             "emoji": "&#128684;",
@@ -281,7 +281,7 @@
         {
             "id": "13",
             "title" : "Vaping",
-            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "importance": ["Bad for you", "<i class=`bi bi-x-square-fill text-danger`></i>"],
             "evidence": ["Mostly clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
             "categories": ["Body"],
             "emoji": "&#9729;",
@@ -301,7 +301,7 @@
         {
             "id": "16",
             "title" : "Cold showers",
-            "importance": ["Bad for you", "<i class=`bi bi-sign-stop-fill text-danger`></i>"],
+            "importance": ["Try to do it", "<i class=`bi bi-check-square-fill text-success`></i>"],
             "evidence": ["Mostly clear", "<i class=`bi bi-check-square-fill text-success`></i>"],
             "categories": ["Mind"],
             "emoji": "&#128703;",

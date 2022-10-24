@@ -6,7 +6,7 @@ This is a personal project to summarise health advice in a simple web applicatio
 ## Structure
 The web application uses the Flask framework with Javascript logic in the front end to ensure a responsive user experience. The health advice is stored in a JSON file which is passed to the application which renders it on screen. The user can apply filters which are implemented in JS. 
 
-The website uses the Bootstrap framework. 
+The website uses the Bootstrap framework to enable mobile responsive design. 
 
 ## Categories for advice
 The following categories are used to rank each item of advice. 
