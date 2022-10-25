@@ -5,8 +5,7 @@ This is a personal project to summarise health advice in a simple web applicatio
 
 The current content is a placeholder only and is intended to be indicative of the type of content on the site.
 
-![Screenshot of the website](https://github/worcestershiresource/healthweb/blob/main/static/screenshot.jpg?raw=true)
-
+![Screenshot of the website](https://github.com/WorcestershireSource/healthweb/blob/main/static/screenshot.jpg?raw=true)
 
 ## Structure
 The web application uses the Flask framework with Javascript logic in the front end to ensure a responsive user experience. The health advice is stored in a JSON file which is passed to the application which renders it on screen. The user can apply filters which are implemented in Javascript. 
