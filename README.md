@@ -5,7 +5,7 @@ This is a personal project to summarise health advice in a simple web applicatio
 
 The current content is a placeholder only and is intended to be indicative of the type of content on the site.
 
-![Screenshot of the website](https://github/worcestershiresource/healthweb/blob/main/screenshot.jpg?raw=true)
+![Screenshot of the website](https://github/worcestershiresource/healthweb/blob/main/static/screenshot.jpg?raw=true)
 
 
 ## Structure
